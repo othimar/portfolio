@@ -1,0 +1,14 @@
+.socialMediaButton{
+    display: inline-block;
+    font-size: 30px;
+    color: white;
+    margin: 0 10px;
+    
+    transition: transform 200ms;
+    transform: scale(1);
+}
+
+.socialMediaButton:hover{
+    transform: scale(1.5);
+    transition: transform 200ms;
+}
