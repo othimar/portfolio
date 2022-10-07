@@ -17,8 +17,8 @@ function Hero() {
         <div className="hero">
             <ProfilePic src = "/images/profil.jpg"/>
             
-            <h1>Salut! Je Pélé.</h1>
-            <h2>Developpeurr</h2>
+            <h1>Salut! Je suis Pélé.</h1>
+            <h2>Developpeur</h2>
             <div className="social-row">
                 <SocialMediaButton href="https://twitter.com/OthimarPele" faIcon="fa-twitter" />
                 <SocialMediaButton href="https://github.com/othimar" faIcon="fa-github" />
